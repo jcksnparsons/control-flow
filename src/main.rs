@@ -13,6 +13,7 @@ fn main() {
 //     farenheit as i32
 // }
 
+// function that takes in a number then builds a fibonacci sequence up to the input.
 fn fibonacci(x: u32) -> u32 {
     match x {
         0 => 1,
